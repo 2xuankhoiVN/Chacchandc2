@@ -10,5 +10,5 @@ const bot = mineflayer.createBot({
 })
 
 bot.once('spawn', () => {
-  bot.chat('/login thegold780')
+  bot.chat('/login yasuo19')
 })
